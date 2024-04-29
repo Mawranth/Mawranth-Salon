@@ -472,10 +472,10 @@
     },
   {
         "type" : "mutation",
-        "id" : "BLACK_HAIR_AFBUN",
-        "name" : "Hair: black, afro puffs",
+        "id" : "BLACK_HAIR_PUFF",
+        "name" : "Hair: black, puffs",
         "points" : 0,
-        "description" : "Afro-textured hair tied into two puffs.",
+        "description" : "Hair tied into two puffs.",
         "starting_trait" : true,
 	"valid": false,
         "purifiable": false,
@@ -486,10 +486,10 @@
 
   {
         "type" : "mutation",
-        "id" : "BROWN_HAIR_AFBUN",
-        "name" : "Hair: brown, afro puffs",
+        "id" : "BROWN_HAIR_PUFF",
+        "name" : "Hair: brown, puffs",
         "points" : 0,
-        "description" : "Afro-textured hair tied into two puffs.",
+        "description" : "Hair tied into two puffs.",
         "starting_trait" : true,
 	"valid": false,
         "purifiable": false,
@@ -500,10 +500,10 @@
 
   {
         "type" : "mutation",
-        "id" : "BLOND_HAIR_AFBUN",
-        "name" : "Hair: blond, afro puffs",
+        "id" : "BLOND_HAIR_PUFF",
+        "name" : "Hair: blond, puffs",
         "points" : 0,
-        "description" : "Afro-textured hair tied into two puffs.",
+        "description" : "Hair tied into two puffs.",
         "starting_trait" : true,
 	"valid": false,
         "purifiable": false,
@@ -514,10 +514,10 @@
 
   {
         "type" : "mutation",
-        "id" : "GREEN_HAIR_AFBUN",
-        "name" : "Hair: green, afro puffs",
+        "id" : "GREEN_HAIR_PUFF",
+        "name" : "Hair: green, puffs",
         "points" : 0,
-        "description" : "Afro-textured hair tied into two puffs.",
+        "description" : "Hair tied into two puffs.",
         "starting_trait" : true,
 	"valid": false,
         "purifiable": false,
@@ -528,10 +528,10 @@
 
   {
         "type" : "mutation",
-        "id" : "BLUE_HAIR_AFBUN",
-        "name" : "Hair: blue, afro puffs",
+        "id" : "BLUE_HAIR_PUFF",
+        "name" : "Hair: blue, puffs",
         "points" : 0,
-        "description" : "Afro-textured hair tied into two puffs.",
+        "description" : "Hair tied into two puffs.",
         "starting_trait" : true,
 	"valid": false,
         "purifiable": false,
@@ -542,10 +542,10 @@
 
   {
         "type" : "mutation",
-        "id" : "PINK_HAIR_AFBUN",
-        "name" : "Hair: pink, afro puffs",
+        "id" : "PINK_HAIR_PUFF",
+        "name" : "Hair: pink, puffs",
         "points" : 0,
-        "description" : "Afro-textured hair tied into two puffs.",
+        "description" : "Hair tied into two puffs.",
         "starting_trait" : true,
 	"valid": false,
         "purifiable": false,
@@ -556,10 +556,10 @@
 
   {
         "type" : "mutation",
-        "id" : "RED_HAIR_AFBUN",
-        "name" : "Hair: red, afro puffs",
+        "id" : "RED_HAIR_PUFF",
+        "name" : "Hair: red, puffs",
         "points" : 0,
-        "description" : "Afro-textured hair tied into two puffs.",
+        "description" : "Hair tied into two puffs.",
         "starting_trait" : true,
 	"valid": false,
         "purifiable": false,

@@ -184,31 +184,31 @@
 				"file": "maw_afbuns.png",
 				"tiles": [
 					{
-						"id": "overlay_mutation_BLACK_HAIR_AFBUN",
+						"id": "overlay_mutation_BLACK_HAIR_PUFF",
 						"fg": 35
 					},
 					{
-						"id": "overlay_mutation_BROWN_HAIR_AFBUN",
+						"id": "overlay_mutation_BROWN_HAIR_PUFF",
 						"fg": 36
 					},
 					{
-						"id": "overlay_mutation_BLOND_HAIR_AFBUN",
+						"id": "overlay_mutation_BLOND_HAIR_PUFF",
 						"fg": 37
 					},
 					{
-						"id": "overlay_mutation_GREEN_HAIR_AFBUN",
+						"id": "overlay_mutation_GREEN_HAIR_PUFF",
 						"fg": 38
 					},
 					{
-						"id": "overlay_mutation_BLUE_HAIR_AFBUN",
+						"id": "overlay_mutation_BLUE_HAIR_PUFF",
 						"fg": 39
 					},
 					{
-						"id": "overlay_mutation_PINK_HAIR_AFBUN",
+						"id": "overlay_mutation_PINK_HAIR_PUFF",
 						"fg": 40
 					},
 					{
-						"id": "overlay_mutation_RED_HAIR_AFBUN",
+						"id": "overlay_mutation_RED_HAIR_PUFF",
 						"fg": 41
 					}
 				]
